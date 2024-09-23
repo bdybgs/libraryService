@@ -10,17 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65144c1d-7b8f-451e-b47e-6ff0d7e2d5fb" name="Changes" comment="Created frame of app and db">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/libraryservice/config/JDBCConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/libraryservice/servlet/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/libraryservice/servlet/NewServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/person.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/libraryservice/entity/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/libraryservice/entity/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/libraryservice/entity/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/libraryservice/entity/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/libraryservice/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/libraryservice/service/BookService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/libraryservice/service/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/libraryservice/service/PersonService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/libraryservice/servlet/PersonServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/libraryservice/servlet/PersonServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -316,7 +306,7 @@
       <workItem from="1726609579490" duration="10529000" />
       <workItem from="1726786340882" duration="751000" />
       <workItem from="1726878135401" duration="13781000" />
-      <workItem from="1727083120345" duration="1942000" />
+      <workItem from="1727083120345" duration="2540000" />
     </task>
     <task id="LOCAL-00001" summary="Created frame of app and db">
       <option name="closed" value="true" />
@@ -326,7 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726622351142</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created frame of app and db">
+      <option name="closed" value="true" />
+      <created>1727094299435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727094299435</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
